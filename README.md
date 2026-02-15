@@ -22,7 +22,7 @@ The script requires two main libraries. Install them via terminal or command pro
 
 ```bash
 pip install bleak pyautogui
-
+```
 ---
 
 ## ⚠️ Legal Disclaimer
