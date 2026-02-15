@@ -1,4 +1,4 @@
-# Zwift Click – Universal PC Controller
+# Zwift Click – Universal PC Controller (MyWhoosh)
 
 This Python script allows you to use the **Zwift Click v2** Bluetooth controller as a universal macro pad on Windows or macOS. It bypasses the need for the Zwift Companion app and connects the controller directly to your PC, mapping buttons to keyboard strokes for **Virtual Shifting** and **HUD navigation**.
 
